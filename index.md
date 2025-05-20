@@ -1,2 +1,21 @@
 # H1 Header
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![random img](https://picsum.photos/600/200)
+``` cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+void setIO() {
+  cin.tie(0)->sync_with_stdio(0);
+}
+
+void solve() {
+}
+
+int main() {
+  setIO();
+  int t;
+  cin >> t;
+  while (t--) solve();
+  return 0;
+}
+```
